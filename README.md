@@ -6,7 +6,7 @@ The xApp is based on the Load Predictor xApp ([ric-app-lp](https://github.com/o-
 
 The code is under the Apache 2.0 license, with the exception of the code contained in `ss/model` which uses YOLOv3, and thus is under a GPLv3 license.
 
-The model is not included in the repository as it is a large file, but will be uploaded elsewhere.
+The model is not included in the repository as it is a large file, but can be found here: https://genesys-lab.org/source-codes
 The model .pt file should be placed in the `ss/model` directory.
 
 This code must be used with a fork of srsRAN that supports the E2-like interface, which can be found here: https://github.com/openaicellular/srsRAN-e2/tree/e2like_support
